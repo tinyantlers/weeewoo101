@@ -1,4 +1,4 @@
-; Author: Alexis Ugalde
+
 
 ; Program Description:This assignment will show the use of loops and
 ; conditional code created from jump instructions to work
